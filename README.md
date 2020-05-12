@@ -25,7 +25,8 @@ cd tSNE/
 
 mkdir data
 
-# Download data from above mentioned source and place in data directory. This data contains few missing values. These values can be replaced with 0.
+# Download data from above mentioned source and place in data directory.
+This data contains few missing values. These values can be replaced with 0.
 
 singularity shell /cm/shared/apps/rapidsai/rapids0.13-cuda10.0-centos7
 
