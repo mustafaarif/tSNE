@@ -7,8 +7,8 @@ In this example, rapidsai container was used with Singularity.
 
 ## Dataset
 
-Dataset refered in this notebook can be found at; https://www.kaggle.com/roustekbio/breast-cancer-csv/data
-All the missing values have been replaced with '0'
+Various datasets were used for this study.
+Sources of datasets along with their usage guidelines is listed under 'datasets' directory
 
 ## Usage
 
