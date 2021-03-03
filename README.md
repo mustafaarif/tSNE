@@ -39,7 +39,7 @@ singularity shell /cm/shared/apps/rapidsai/rapids0.13-cuda10.0-centos7
 source activate rapids
 
 # Launch Jupyter notebook
-jupyter notebook --port 8000
+jupyter lab --port 8000
 ```
 ## Conclusion
 
